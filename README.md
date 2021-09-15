@@ -25,7 +25,7 @@ My latest running projects that I am working on it. Feel free to make a HACKS.
 
 ## Hire me 🤟
 
-> I am not accepting any job offers right now. Sorry but I love to help communities.
+> I am accepting any job offers right now. I love to help communities.
 > I am focusing on my college studies and feel free to discuss education with me.
 > Rengga, 2020
 
