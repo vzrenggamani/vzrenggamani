@@ -1,33 +1,12 @@
-# Rengga Prakoso Nugroho 👋
+# Hello
 
-I'm college students of the University of Malang. I am majoring in Education technology degree. I spent my free time on programming and chilling out with my friends.
+**Rengga Nugroho | He\Him | Sidoarjo, Indonesia** 
 
-I passionate about technology, culture and technology development. I love to help everybody learn about the technology that improves social learning and education. I have dreams to make education are open to everyone.
+Hello, my name is Rengga. I am currently studying at the State University of Malang in the [Department of Educational Technology](http://tep.fip.um.ac.id). In my spare time, I make several projects related to application and website programming.
 
-Oh yeah, I born on Sidoarjo. Lovely place in Indonesia :indonesia:.
+Nice to meet you!
 
-## My Awasome projects 🤩
-
-My latest running projects that I am working on it. Feel free to make a HACKS.
-
-| Name                          | Repository                                              | Categories            |
-| ----------------------------- | ------------------------------------------------------- | --------------------- |
-| AksaraJawa/Hanacaraka Dataset | <https://github.com/vzrenggamani/aksarajawa-hanacaraka> | Culture and Education |
-| Databudaya.id                 | <https://github.com/vzrenggamani/databudaya>            | Culture               |
-| UntukKita.sda                 | <https://github.com/untukkita-id/sda.untukkita.id>      | Health and Education  |
-
-## Find me! 😁
-
-- [Rengga's Tweets 🐦](https://twitter.com/vzrenggamani)
-- [Watch Rengga's Photography 📷](https://instagram.com/vzrenggamani)
-- [Rengga on Quora 📚](https://id.quora.com/profile/Rengga-Prakoso-Nugroho)
-- [Reads Rengga's Stories 📰](https://medium.com/@vzrenggamani)
-
-## Hire me 🤟
-
-> I am accepting any job offers right now. I love to help communities.
-> I am focusing on my college studies and feel free to discuss education with me.
-> Rengga, 2020
-
-- [Send Rengga's an Email](mailto:hi@renggaprakosonugroho.my.id)
-- [LinkedIn Profile Page](https://www.linkedin.com/in/vzrenggamani/)
+## Say Hello
+**[Website](https://renggaprakosonugroho.my.id/)**<br />
+**[Social Media](https://reng.my.id/)**<br />
+**[LinkedIn](https://linkedin.com/in/vzrenggamani)**<br />
